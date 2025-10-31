@@ -7,7 +7,7 @@
 | Kaisen Kang   | kangkaisen      | Maintainer|
 | Xiaohua Liu   | trueeyu         | Maintainer|
 
-### **Committers**（29）
+### **Committers**（30）
 
 | Public Name   | GitHub ID      | Role     |
 | ------------- | ------------   | -------- |
@@ -40,3 +40,4 @@
 | Xianhai Li    | smartlxh       | Committer|
 | Xiangguang Yan| xiangguangyxg  | Committer|
 | Mervin Hu     | meegoo         | Committer|
+| Zichao Lin    | srlch          | Committer|
