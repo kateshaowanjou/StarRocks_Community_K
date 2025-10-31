@@ -36,8 +36,6 @@ Technical TSC (TSC) is a group responsible for providing overall leadership, str
 | Kang Zhou     | caneGuy         | Member |
 | Heng Zhao     | dshadowzh       | Member |
 | Gaungxu Cheng | guangxuCheng    | Member |
-| Wei Zhou      | choury          | Member |
-| Jingwei Lu    |                 | Member |
 
 
 ### **Elections**
@@ -76,5 +74,5 @@ If a committee member chooses not to continue in their role, for whatever self-e
 
 
 ### **Removal**
-
-A TSC member may be removed by an affirmative vote of a majority of the TSC. 
+During the one-year term, a TSC member may be removed by a majority vote of the TSC. 
+Members who remain inactive for an entire year will be automatically removed from the TSC.
